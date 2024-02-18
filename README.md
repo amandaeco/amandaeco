@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandaeco
-- 👀 I use research, code, and design to tell newsworthy stories that strengthen the brand-consumer relationship
-- 💻 Check out my brand journalism portfolio at www.narrativesbynumbers.com
+- 👀 I am interested in using research, code, and design to tell newsworthy stories that strengthen the brand-consumer relationship
+- 💻 Check out my brand journalism and digital pr portfolio at www.narrativesbynumbers.com
 - 📫 You can reach me at itellstorieswithdata@gmail.com
 
 <!---
